@@ -1,2 +1,6 @@
 Today is day2 of learnning in github.
 & conflict solving From my side.
+Today is day2 of learning of github
+This file is changed
+Today is day2 of learnning in github
+we learn about conflict solving
