@@ -1,1 +1,2 @@
-Today is day2 of learning of github
+Today is day2 of learnning in github
+we learn about conflict solving
